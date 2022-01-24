@@ -1,0 +1,12 @@
+Version 7.0 Beta (/24/01/2022\) (PH7000)------------------------------------ -------------------------------------------------- -----------------------------------
+build 7.0.22678.841
+
+- Modification of the credits text on the LoginScreen.
+- Addition of a label "Forgot your password?"
+- Changed desktop wallpaper
+- Unblocking of the "Standby the computer" button which is under development. At your peril.
+- Added Desktop wallpaper in LoginScreen
+- Color change the time in the Desktop
+- Shift of a few pixels the calendar when you click on the desktop time
+- Changed the GroupBox saying that it will be available in a future update. Up to you...
+- Recentering of the Desktop on small computers screens

@@ -1,0 +1,12 @@
+Version 7.0 Beta (/24/01/2022\) (PH7000)-------------------------------------------------------------------------------------------------------------------------
+build 7.0.22678.841
+
+- Modification du texte des crédits sur le LoginScreen.
+- Ajout d'un label "Mot de passe oublié ?"
+- Modification du fond d'écran du Bureau
+- Déblocage du bouton "Mettre en veille le PC" (Standby the computer) qui est en développement. A vos risques et périls.
+- Ajout du fond d'écran du Bureau dans le LoginScreen
+- Changement de couleur l'heure dans le Bureau
+- Décalage de quelques pixels le calendrier quand on clique sur l'heure du Bureau
+- Changement du GroupBox disant que celui-ci serait disponible dans une future mise à jour. A vous de voir...
+- Recentrement du Bureau sur les écrans d'ordinateurs petits

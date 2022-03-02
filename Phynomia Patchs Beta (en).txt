@@ -51,3 +51,16 @@ build 7.1.22804.156
 - Preparation of device security forms, parental control options and protection history.
 - First version said in the Settings option of the application at the bottom right of the main menu
 - Upgrade taskbar icon like other app icons
+
+Version 7.1 Beta 3 (/02/03/2022\)
+(PH7102)-------------------------------------------------------------- -------------------------------------------------- ---------------------------------
+build 7.1.22804.297
+
+- Updated Security Panel app
+- Added complete device security form
+- Added application control form and complete browser
+- Added form for full parental control options
+- Added form for full protection history
+- Major PhynomiaStore update!
+- Activation of the Phynomia Updater
+- Added "Security Panel" application shortcut in desktop

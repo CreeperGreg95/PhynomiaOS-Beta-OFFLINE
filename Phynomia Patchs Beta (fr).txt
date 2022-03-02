@@ -45,11 +45,24 @@ Version 7.1 Beta 2 (/21/02/2022\)
 (PH7101)-------------------------------------------------------------------------------------------------------------------------------
 build 7.1.22804.156
 
-- Mise à jour de l'applicatyion Security Panel
-- Ajout du formaulaire de la protection des virus et des menaces complète
-- Ajout du formaulaire de la protection des comptes compètes
-- Ajout du formaulaire du protection du pare-feu et du réseau
-- Ajout du formaulaire du contrôle des applications et des navigateurs (ajout qui arrivera bientôt)
+- Mise à jour de l'application Security Panel
+- Ajout du formulaire de la protection des virus et des menaces complète
+- Ajout du formulaire de la protection des comptes compète
+- Ajout du formulaire du protection du pare-feu et du réseau
+- Ajout du formulaire du contrôle des applications et des navigateurs (ajout qui arrivera bientôt)
 - Préparation des formulaires de la sécurité des appareils, des options du contrôle parental ainsi de l'historique de protection.
 - Première version dite dans l'option Paramètres de l'application en bas à droite du menu principal
 - Remise à niveau l'icône de la barre des tâches comme pour les autres icônes des applications
+
+Version 7.1 Beta 3 (/02/03/2022\)
+(PH7102)----------------------------------------------------------------------------------------------------------------------------------
+build 7.1.22804.297
+
+- Mise à jour de l'application Security Panel
+- Ajout du formulaire de la sécurité des appareils complète
+- Ajout du formulaire du contrôle des applications et du navigateur complète
+- Ajout du formulaire pour les options du contrôle parental complète
+- Ajout du formulaire pour l'historique de la protection complète
+- Mise à jour majeure du PhynomiaStore !
+- Mise en fonction du Phynomia Updater
+- Ajout du raccourci de l'application "Security Panel" dans le bureau

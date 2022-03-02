@@ -66,3 +66,26 @@ build 7.1.22804.297
 - Mise à jour majeure du PhynomiaStore !
 - Mise en fonction du Phynomia Updater
 - Ajout du raccourci de l'application "Security Panel" dans le bureau
+
+Version 7.1 (/02/03/2022\)
+(PH7103)-----------------------------------------------------------------------------------------------------------------------------------
+build 7.1.22804.354
+
+- Ajout de l'application Security Panel.
+- Ajout du logo dans la barre des tâches
+- Ajout du logo dans le menu Démarrer du système
+- Commencement du développement dans la catégorie "Protection des virus et menaces"
+- Mise à jour de l'application Security Panel
+- Ajout du formulaire de la protection des virus et des menaces complète
+- Ajout du formulaire de la protection des comptes compète
+- Ajout du formulaire du protection du pare-feu et du réseau
+- Préparation des formulaires de la sécurité des appareils, des options du contrôle parental ainsi de l'historique de protection.
+- Première version dite dans l'option Paramètres de l'application en bas à droite du menu principal
+- Remise à niveau l'icône de la barre des tâches comme pour les autres icônes des applications
+- Ajout du formulaire de la sécurité des appareils complète
+- Ajout du formulaire du contrôle des applications et du navigateur complète
+- Ajout du formulaire pour les options du contrôle parental complète
+- Ajout du formulaire pour l'historique de la protection complète
+- Mise à jour majeure du PhynomiaStore !
+- Mise en fonction du Phynomia Updater
+- Ajout du raccourci de l'application "Security Panel" dans le bureau

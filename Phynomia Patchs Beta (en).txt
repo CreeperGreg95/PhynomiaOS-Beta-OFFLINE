@@ -64,3 +64,25 @@ build 7.1.22804.297
 - Major PhynomiaStore update!
 - Activation of the Phynomia Updater
 - Added "Security Panel" application shortcut in desktop
+
+Version 7.1 (/02/03/2022\)
+(PH7103)---------------------------------------------------------------------------------------------------------------------------------------------------
+build 7.1.22804.354
+
+- Added Security Panel application.
+- Added logo in taskbar
+- Added logo in system start menu
+- Update of the Security Panel application
+- Added full virus and threat protection form
+- Addition of the form for the protection of complete accounts
+- Added firewall and network protection form
+- Preparation of device security forms, parental control options and protection history.
+- First version said in the Settings option of the application at the bottom right of the main menu
+- Upgrade taskbar icon like other app icons
+- Added complete device security form
+- Added application control form and complete browser
+- Added form for full parental control options
+- Added form for full protection history
+- Major PhynomiaStore update!
+- Activation of the Phynomia Updater
+- Added "Security Panel" application shortcut in desktop

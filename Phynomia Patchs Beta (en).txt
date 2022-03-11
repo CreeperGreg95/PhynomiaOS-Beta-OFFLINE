@@ -86,3 +86,12 @@ build 7.1.22804.354
 - Major PhynomiaStore update!
 - Activation of the Phynomia Updater
 - Added "Security Panel" application shortcut in desktop
+
+Version 8.0 Beta 1 (/11/03/2022\)
+(PH8000)-------------------------------------------------------------- -------------------------------------------------- ----------------------------------
+build 8.0.22958.498
+
+- Addition of the category where it was necessary to wait for version 8.0
+- Modification of the system shutdown button which before stopped with a process still active
+- Updated desktop wallpaper and OS login screen
+- Adding the first beta of the first Internet Browser in PhynomiaOS!

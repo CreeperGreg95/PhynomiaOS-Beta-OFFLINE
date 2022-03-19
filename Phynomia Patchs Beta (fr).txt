@@ -98,3 +98,15 @@ build 8.0.22958.498
 - Modification du bouton d'arrêt du système qui avant, s'arrêtait avec un processus toujours actif
 - Mise à jour du fond d'écran du Bureau et de l'écran de connexion à l'OS
 - Adding the first beta of the first Internet Browser in PhynomiaOS !
+
+Version 8.0 Beta 2 (/19/03/2022\)
+(PH8001)----------------------------------------------------------------------------------------------------------------------------------
+build 8.0.22958.624
+
+- Mise à jour de Internet Browser
+- Correction du bug de l'icône Internet Browser dans le bureau
+- Correction du bug d'écriture dans le label de mise à jour de l'antimalware (label de version)
+- Blocage du bouton du calendrier de l'avent 2021 dans le menu démarrer
+- Mise à jour du PhynomiaStore
+- Mise à jour du bouton "This button is useless" vers "Important Warning !"
+- Mise à jour du PhynomiaStore Downloader - (1.1.0.0) (Téléchargez depuis le Phynomia Updater)

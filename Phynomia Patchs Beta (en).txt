@@ -106,4 +106,13 @@ build 8.0.22958.624
 - Advent calendar 2021 button blocking in start menu
 - PhynomiaStore update
 - Updated "This button is useless" button to "Important Warning!"
-- PhynomiaStore Downloader Update - (1.1.0.0) (Download from Phynomia Updater)
+- PhynomiaStore Downloader Update - (1.1.0.0) (Download-it from Phynomia Updater)
+
+Version 8.0 Beta 3 (/27/03/2022\)
+(PH8002)-------------------------------------------------------------- -------------------------------------------------- ---------------------------------------------
+
+- PhynomiaStore update
+- Activation of the button in the PhynomiaStore launcher
+- Added fonts starting with the letter A
+/!\ Fonts are only for the system host /!\
+- Updated labels not updated in the latest beta version (version labels)

@@ -109,4 +109,13 @@ build 8.0.22958.624
 - Blocage du bouton du calendrier de l'avent 2021 dans le menu démarrer
 - Mise à jour du PhynomiaStore
 - Mise à jour du bouton "This button is useless" vers "Important Warning !"
-- Mise à jour du PhynomiaStore Downloader - (1.1.0.0) (Téléchargez depuis le Phynomia Updater)
+- Mise à jour du PhynomiaStore Downloader - (1.1.0.0) (Téléchargez-le depuis le Phynomia Updater)
+
+Verision 8.0 Beta 3 (/27/03/2022\)
+(PH8002)---------------------------------------------------------------------------------------------------------------------------------------------
+
+- Mise à jour du PhynomiaStore
+- Mise en fonctionnement du bouton dans le lanceur du PhynomiaStore
+- Ajout des polices commençant par la lettre A
+/!\ Les polices servent que pour l'hote du système /!\
+- Mise à jour des labels non mis à jour dans la dernière version de la beta (labels de versions)

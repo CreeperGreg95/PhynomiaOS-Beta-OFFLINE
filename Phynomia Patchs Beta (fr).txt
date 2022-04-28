@@ -149,3 +149,4 @@ build 8.0.22958.898
 
 - Correction du bug critique d'accès à l'application
 - Mise à jour du label dans le LoginScreen
+(edited)

@@ -116,3 +116,33 @@ Version 8.0 Beta 3 (/27/03/2022\)
 - Added fonts starting with the letter A
 /!\ Fonts are only for the system host /!\
 - Updated labels not updated in the latest beta version (version labels)
+
+Version 8.0 (/02/04/2022\)
+(PH8010)-------------------------------------------------------------- -------------------------------------------------- ----------------------------------
+build 8.0.22958.897
+
+- Addition of the category where it was necessary to wait for version 8.0
+- Modification of the system shutdown button which before stopped with a process still active
+- Updated desktop wallpaper and OS login screen
+- Adding the first beta of the first Internet Browser in PhynomiaOS!
+- Internet Browser update
+- Fixed Internet Browser icon bug in desktop
+- Fixed writing bug in antimalware update label (version label)
+- Advent calendar 2021 button blocking in start menu
+- PhynomiaStore update
+- Updated "This button is useless" button to "Important Warning!"
+- Updated PhynomiaStore Downloader - (1.1.0.0) (Download it from Phynomia Updater)
+- PhynomiaStore update
+- Activation of the button in the PhynomiaStore launcher
+- Added fonts starting with the letter A
+/!\ Fonts are only for the system host /!\
+- Updated labels not updated in the latest beta version (version labels)
+- Added secret category!
+- Adjustment of the Fonts part of the PhynomiaStore
+
+Version 8.0.1 (/25/04/2022\)
+(PH8011)-------------------------------------------------------------- -------------------------------------------------- ------------------------------------
+build 8.0.22958.898
+
+- Fixed app access critical bug
+- Update of the label in the LoginScreen

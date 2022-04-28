@@ -119,3 +119,33 @@ Verision 8.0 Beta 3 (/27/03/2022\)
 - Ajout des polices commençant par la lettre A
 /!\ Les polices servent que pour l'hote du système /!\
 - Mise à jour des labels non mis à jour dans la dernière version de la beta (labels de versions)
+
+Version 8.0 (/02/04/2022\)
+(PH8010)-----------------------------------------------------------------------------------------------------------------------------------
+build 8.0.22958.897
+
+- Ajout de la catégorie où il fallait attendre la version 8.0
+- Modification du bouton d'arrêt du système qui avant, s'arrêtait avec un processus toujours actif
+- Mise à jour du fond d'écran du Bureau et de l'écran de connexion à l'OS
+- Adding the first beta of the first Internet Browser in PhynomiaOS !
+- Mise à jour de Internet Browser
+- Correction du bug de l'icône Internet Browser dans le bureau
+- Correction du bug d'écriture dans le label de mise à jour de l'antimalware (label de version)
+- Blocage du bouton du calendrier de l'avent 2021 dans le menu démarrer
+- Mise à jour du PhynomiaStore
+- Mise à jour du bouton "This button is useless" vers "Important Warning !"
+- Mise à jour du PhynomiaStore Downloader - (1.1.0.0) (Téléchargez-le depuis le Phynomia Updater)
+- Mise à jour du PhynomiaStore
+- Mise en fonctionnement du bouton dans le lanceur du PhynomiaStore
+- Ajout des polices commençant par la lettre A
+/!\ Les polices servent que pour l'hote du système /!\
+- Mise à jour des labels non mis à jour dans la dernière version de la beta (labels de versions)
+- Ajout de la catégorie secrète !
+- Reglage de la partie Fonts du PhynomiaStore
+
+Version 8.0.1 (/25/04/2022\)
+(PH8011)-------------------------------------------------------------------------------------------------------------------------------------
+build 8.0.22958.898
+
+- Correction du bug critique d'accès à l'application
+- Mise à jour du label dans le LoginScreen

@@ -150,3 +150,11 @@ build 8.0.22958.898
 - Correction du bug critique d'accès à l'application
 - Mise à jour du label dans le LoginScreen
 (edited)
+
+Version 9.1 Beta 1 (/28/11/2022\)
+(PH9102)-------------------------------------------------------------------------------------------------------------------------------------
+build 9.0.24734.105
+
+- Presque 6 mois sans mise à jour ça se faisait long non ?
+- Mise à jour du WaitingApp pour le Calendrier de l'Avent 2022 (1% -> 26%)
+- Ajout du fond d'écran pour l'application du calendrier de l'avent 2022 dans les FICHIERS DE L'APPLICATION

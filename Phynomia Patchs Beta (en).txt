@@ -146,3 +146,11 @@ build 8.0.22958.898
 
 - Fixed app access critical bug
 - Update of the label in the LoginScreen
+
+version 9.1 Beta 1 (/28/11/2022\)
+(PH9102)-------------------------------------------------------------- -------------------------------------------------- ------------------------------------
+build 9.0.24734.105
+
+- Almost 6 months without an update was a long time, wasn't it?
+- Updated WaitingApp for Advent Calendar 2022 (1% -> 26%)
+- Added wallpaper for 2022 advent calendar app in APP FILES

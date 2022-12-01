@@ -164,3 +164,18 @@ build 9.0.24735.120
 - a Beta 3 version will be released 1 hour before the official release of 9.1
 - Added a shortcut in the desktop for the Advent Calendar.
 -> Report the bugs here (on the Github) before tomorrow 16:30 MAXIMUM (Paris time) after it will be during a patch of an official version that it will be fixed.
+
+Version 9.1 (/01/12/2022)
+(PH9104)-------------------------------------------------------------------------------------------------------------------------------------
+build 9.1.24735.268
+
+- Almost 7 months without an update it was a long time right?
+- WaitingApp update for the 2022 Advent Calendar (1% -> 26%)
+- Added wallpaper for the application of the advent calendar 2022 in the APPLICATION FILES
+- Update of the Advent Calendar 2022
+- OFFICIAL RELEASE OF VERSION 9.1 WILL BE ON DECEMBER 01 AT 17H (Paris Time)
+- a Beta 3 version will be released 1 hour before the official release of 9.1
+- Added a shortcut in the desktop for the Advent Calendar.
+-> Report the bugs here (on the Github) before tomorrow 16:30 MAXIMUM (Paris time) after it will be during a patch of an official version that it will be fixed.
+- Added wallpaper in the Advent Calendar 2022 window
+- Application finish completed (final build: 1.2.5)

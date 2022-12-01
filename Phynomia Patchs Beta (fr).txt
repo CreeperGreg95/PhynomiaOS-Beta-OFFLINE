@@ -168,3 +168,18 @@ build 9.0.24735.120
 - une version Beta 3 sortira 1h avant la sortie officielle de la 9.1
 - Ajout d'un raccourci dans le bureau pour le Calendrier de l'Avent.
 -> Reportez les bugs ici (sur le Github) avant demain 16h30 MAXIMUM (heure de Paris) après ce sera durant un patch d'une version officielle qu'il sera réglé.
+
+Version 9.1 (/01/12/2022\)
+(PH9104)-------------------------------------------------------------------------------------------------------------------------------------
+build 9.1.24735.268
+
+- Presque 6 mois sans mise à jour ça se faisait long non ?
+- Mise à jour du WaitingApp pour le Calendrier de l'Avent 2022 (1% -> 26%)
+- Ajout du fond d'écran pour l'application du calendrier de l'avent 2022 dans les FICHIERS DE L'APPLICATION
+- Mise à jour du Calendrier de l'Avent 2022
+- SORTIE OFFICIELLE DE LA VERSION 9.1 SERA LE 01 DECEMBRE A 17H (Heure de Paris)
+- une version Beta 3 sortira 1h avant la sortie officielle de la 9.1
+- Ajout d'un raccourci dans le bureau pour le Calendrier de l'Avent.
+-> Reportez les bugs ici (sur le Github) avant demain 16h30 MAXIMUM (heure de Paris) après ce sera durant un patch d'une version officielle qu'il sera réglé.
+- Ajout du fond d'écran dans la fenêtre du Calendier de l'Avent 2022
+- Finition de l'application terminé (build finale : 1.2.5)

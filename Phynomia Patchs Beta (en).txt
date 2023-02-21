@@ -179,3 +179,5 @@ build 9.1.24735.268
 -> Report the bugs here (on the Github) before tomorrow 16:30 MAXIMUM (Paris time) after it will be during a patch of an official version that it will be fixed.
 - Added wallpaper in the Advent Calendar 2022 window
 - Application finish completed (final build: 1.2.5)
+
+/!\ There will be no update in this file now ! /!\
